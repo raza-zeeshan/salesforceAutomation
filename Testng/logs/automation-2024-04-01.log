@@ -1,0 +1,61 @@
+10:58:54.896 [main] INFO  testCases.ServiceTest - //Clicked on Send Email Button//
+10:58:55.188 [main] INFO  testCases.ServiceTest - //Clicked on To field//
+10:58:56.266 [main] INFO  testCases.ServiceTest - //Searched into To field//
+10:58:56.516 [main] INFO  testCases.ServiceTest - //Clicked on Go button//
+10:58:57.209 [main] INFO  testCases.ServiceTest - //Clicked on Account Name//
+10:58:57.609 [main] INFO  testCases.ServiceTest - //Clicked on Template//
+10:58:58.227 [main] INFO  testCases.ServiceTest - //Template Selected//
+10:58:59.285 [main] INFO  testCases.ServiceTest - //Clicked on Attach Button//
+10:59:01.281 [main] INFO  testCases.ServiceTest - //Clicked on File Button//
+10:59:03.557 [main] INFO  testCases.ServiceTest - //Clicked on Attached File//
+10:59:03.857 [main] INFO  testCases.ServiceTest - //Clicked on Done button//
+10:59:07.114 [main] INFO  testCases.ServiceTest - //Clicked on Send button//
+10:59:07.115 [main] INFO  testCases.ServiceTest - //Email Sent Successfully//
+10:59:42.267 [main] INFO  testCases.ServiceTest - //Browser Closed Successfully//
+11:13:31.974 [main] INFO  testCases.ServiceTest - //Browser Opened Successfully//
+11:13:32.295 [main] INFO  testCases.ServiceTest - //Entering valid email and password..//
+11:13:42.047 [main] INFO  testCases.ServiceTest - //Clicked on Login button..//
+11:13:42.047 [main] INFO  testCases.ServiceTest - //Successfully logged-in into salesforce//
+11:13:46.159 [main] INFO  testCases.ServiceTest - //Clicked on Case Tab//
+11:13:47.248 [main] INFO  testCases.ServiceTest - //Clicked on new button//
+11:13:49.400 [main] INFO  testCases.ServiceTest - //Selecting Record-type //
+12:01:51.852 [main] INFO  testCases.ServiceTest - //Browser Opened Successfully//
+12:01:52.154 [main] INFO  testCases.ServiceTest - //Entering valid email and password..//
+12:02:03.678 [main] INFO  testCases.ServiceTest - //Clicked on Login button..//
+12:02:03.679 [main] INFO  testCases.ServiceTest - //Successfully logged-in into salesforce//
+12:02:08.853 [main] INFO  testCases.ServiceTest - //Clicked on Case Tab//
+12:02:10.106 [main] INFO  testCases.ServiceTest - //Clicked on new button//
+12:02:10.370 [main] INFO  testCases.ServiceTest - //Selecting Record-type //
+12:02:16.883 [main] INFO  testCases.ServiceTest - //Clicked on Continue Button//
+12:02:16.884 [main] INFO  testCases.ServiceTest - //Successfully came into Case Section//
+12:02:18.596 [main] INFO  testCases.ServiceTest - //Clicked on Status field and Selected status as 'New'//
+12:02:18.880 [main] INFO  testCases.ServiceTest - //Clicked on Origin field and Selected origin as 'Email'//
+12:02:19.142 [main] INFO  testCases.ServiceTest - //gave subject to the subject field//
+12:02:19.435 [main] INFO  testCases.ServiceTest - //gave Description to the description field//
+12:02:19.785 [main] INFO  testCases.ServiceTest - //Clicked on Account Name field//
+12:02:22.020 [main] INFO  testCases.ServiceTest - //Clicked on Search field and searched the account//
+12:02:22.236 [main] INFO  testCases.ServiceTest - //Clicked on Go Button//
+12:02:23.281 [main] INFO  testCases.ServiceTest - //Selected the Acccount Name//
+12:02:31.099 [main] INFO  testCases.ServiceTest - //Clicked on Save button//
+12:02:31.100 [main] INFO  testCases.ServiceTest - //Successfully Case created//
+12:02:31.298 [main] INFO  testCases.ServiceTest - //Clicked on Details section//
+12:02:32.302 [main] INFO  testCases.ServiceTest - //Clicked on Clone Button//
+12:02:32.610 [main] INFO  testCases.ServiceTest - //Modified the subject field//
+12:02:34.469 [main] INFO  testCases.ServiceTest - //Clicked on Save Button//
+12:02:34.470 [main] INFO  testCases.ServiceTest - //Successfully Cloned the Case//
+12:02:34.572 [main] INFO  testCases.ServiceTest - //Verified the Cloned Case//
+12:02:36.975 [main] INFO  testCases.ServiceTest - //Clicked on Esclate button//
+12:02:37.217 [main] INFO  testCases.ServiceTest - //Clicked on Parent field and set the parent//
+12:02:37.510 [main] INFO  testCases.ServiceTest - //Case Origin Modified//
+12:02:37.711 [main] INFO  testCases.ServiceTest - //Status Modified//
+12:02:37.905 [main] INFO  testCases.ServiceTest - //Clicked on SLA field//
+12:02:38.146 [main] INFO  testCases.ServiceTest - //Subject Modified//
+12:02:39.873 [main] INFO  testCases.ServiceTest - //Clicked on SAve Button//
+12:02:39.874 [main] INFO  testCases.ServiceTest - //Case Escalated Successfully//
+12:02:39.951 [main] INFO  testCases.ServiceTest - //Verified the Status Modification//
+12:02:44.061 [main] INFO  testCases.ServiceTest - //Clicked on Details section//
+12:02:45.702 [main] INFO  testCases.ServiceTest - //Clicked on Send Email Button//
+12:02:46.004 [main] INFO  testCases.ServiceTest - //Clicked on To field//
+12:02:47.136 [main] INFO  testCases.ServiceTest - //Searched into To field//
+12:02:47.318 [main] INFO  testCases.ServiceTest - //Clicked on Go button//
+12:02:48.139 [main] INFO  testCases.ServiceTest - //Clicked on Account Name//

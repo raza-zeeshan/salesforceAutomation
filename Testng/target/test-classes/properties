@@ -1,0 +1,11 @@
+URL=https://login.salesforce.com/?locale=in
+username=vedha@cognizant.com
+password=sakthi@33
+subject=display screen problem
+desc=phone fall down on the floor display damaged
+Aname=jayu
+Clone=Clone Case
+body=the case has been closed successfully this is acknowledgement mail
+escalate=escalate case
+parent=00001054
+to=veda prakash

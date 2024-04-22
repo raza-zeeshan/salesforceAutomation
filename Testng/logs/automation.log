@@ -1,0 +1,24 @@
+09:14:06.468 [main] INFO  testCases.ServiceTest - //Verified the Status Modification//
+09:14:10.778 [main] INFO  testCases.ServiceTest - //Clicked on Details section//
+09:14:12.340 [main] INFO  testCases.ServiceTest - //Clicked on Send Email Button//
+09:14:12.772 [main] INFO  testCases.ServiceTest - //Clicked on To field//
+09:14:13.855 [main] INFO  testCases.ServiceTest - //Searched into To field//
+09:14:14.064 [main] INFO  testCases.ServiceTest - //Clicked on Go button//
+09:14:14.957 [main] INFO  testCases.ServiceTest - //Clicked on Account Name//
+09:14:15.363 [main] INFO  testCases.ServiceTest - //Clicked on Template//
+09:14:16.057 [main] INFO  testCases.ServiceTest - //Template Selected//
+09:14:16.993 [main] INFO  testCases.ServiceTest - //Clicked on Attach Button//
+09:14:18.866 [main] INFO  testCases.ServiceTest - //Clicked on File Button//
+09:14:21.387 [main] INFO  testCases.ServiceTest - //Clicked on Attached File//
+09:14:21.724 [main] INFO  testCases.ServiceTest - //Clicked on Done button//
+09:14:24.705 [main] INFO  testCases.ServiceTest - //Clicked on Send button//
+09:14:24.705 [main] INFO  testCases.ServiceTest - //Email Sent Successfully//
+09:14:25.530 [main] INFO  testCases.ServiceTest - //Clicked on Edit button//
+09:14:25.716 [main] INFO  testCases.ServiceTest - //Changed Status Working to Escalated//
+09:14:27.472 [main] INFO  testCases.ServiceTest - //Clicked on Save button//
+09:14:27.472 [main] INFO  testCases.ServiceTest - //Status changed Successfully//
+09:14:30.349 [main] INFO  testCases.ServiceTest - //Browser Closed Successfully//
+10:26:01.838 [main] INFO  testCases.ServiceTest - //Browser Opened Successfully//
+10:26:02.153 [main] INFO  testCases.ServiceTest - //Entering valid email and password..//
+10:26:13.937 [main] INFO  testCases.ServiceTest - //Clicked on Login button..//
+10:26:13.938 [main] INFO  testCases.ServiceTest - //Successfully logged-in into salesforce//

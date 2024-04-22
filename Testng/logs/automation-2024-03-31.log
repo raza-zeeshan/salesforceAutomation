@@ -1,0 +1,52 @@
+21:57:03.582 [main] INFO  testCases.ServiceTest - **********Entering valid email and password..***************
+21:57:14.322 [main] INFO  testCases.ServiceTest - **********Clicked on Login button..***************
+21:57:18.288 [main] INFO  testCases.ServiceTest - **********Clicked on Case button***************
+22:24:24.940 [TestNG-tests-2] INFO  testCases.ServiceTest - **********Entering valid email and password..***************
+22:24:24.940 [TestNG-tests-1] INFO  testCases.ServiceTest - **********Entering valid email and password..***************
+22:24:46.862 [TestNG-tests-2] INFO  testCases.ServiceTest - **********Clicked on Login button..***************
+22:50:53.548 [TestNG-tests-2] INFO  testCases.ServiceTest - **********Entering valid email and password..***************
+22:50:54.362 [TestNG-tests-1] INFO  testCases.ServiceTest - **********Entering valid email and password..***************
+22:54:39.536 [main] INFO  testCases.ServiceTest - **********Entering valid email and password..***************
+22:54:50.964 [main] INFO  testCases.ServiceTest - **********Clicked on Login button..***************
+22:54:55.337 [main] INFO  testCases.ServiceTest - **********Clicked on Case button***************
+09:34:48.105 [main] INFO  testCases.ServiceTest - **********Entering valid email and password..***************
+09:34:54.672 [main] INFO  testCases.ServiceTest - **********Clicked on Login button..***************
+09:35:50.245 [main] INFO  testCases.ServiceTest - **********Clicked on Case button***************
+13:49:04.395 [TestNG-tests-1] INFO  testCases.ServiceTest - **********Entering valid email and password..***************
+13:49:05.756 [TestNG-tests-2] INFO  testCases.ServiceTest - **********Entering valid email and password..***************
+13:49:26.075 [TestNG-tests-1] INFO  testCases.ServiceTest - **********Clicked on Login button..***************
+13:50:59.566 [main] INFO  testCases.ServiceTest - **********Entering valid email and password..***************
+13:51:07.711 [main] INFO  testCases.ServiceTest - **********Clicked on Login button..***************
+13:51:51.368 [main] INFO  testCases.ServiceTest - **********Clicked on Case button***************
+20:10:38.006 [TestNG-tests-1] INFO  testCases.ServiceTest - //Browser Opened Successfully//
+20:10:38.415 [TestNG-tests-1] INFO  testCases.ServiceTest - //Entering valid email and password..//
+20:10:38.608 [TestNG-tests-2] INFO  testCases.ServiceTest - //Browser Opened Successfully//
+20:10:38.656 [TestNG-tests-2] INFO  testCases.ServiceTest - //Entering valid email and password..//
+20:10:54.352 [TestNG-tests-1] INFO  testCases.ServiceTest - //Clicked on Login button..//
+20:10:54.353 [TestNG-tests-1] INFO  testCases.ServiceTest - //Successfully logged-in into salesforce//
+20:11:04.874 [TestNG-tests-2] INFO  testCases.ServiceTest - //Browser Closed Successfully//
+20:11:04.875 [TestNG-tests-1] INFO  testCases.ServiceTest - //Browser Closed Successfully//
+20:13:02.269 [main] INFO  testCases.ServiceTest - //Browser Opened Successfully//
+20:13:02.540 [main] INFO  testCases.ServiceTest - //Entering valid email and password..//
+20:13:14.052 [main] INFO  testCases.ServiceTest - //Clicked on Login button..//
+20:13:14.052 [main] INFO  testCases.ServiceTest - //Successfully logged-in into salesforce//
+20:13:17.420 [main] INFO  testCases.ServiceTest - //Clicked on Case Tab//
+20:13:18.356 [main] INFO  testCases.ServiceTest - //Clicked on new button//
+20:13:18.605 [main] INFO  testCases.ServiceTest - //Selecting Record-type //
+20:13:22.651 [main] INFO  testCases.ServiceTest - //Clicked on Continue Button//
+20:13:22.651 [main] INFO  testCases.ServiceTest - //Successfully came into Case Section//
+20:13:23.807 [main] INFO  testCases.ServiceTest - //Clicked on Status field and Selected status as 'New'//
+20:13:23.985 [main] INFO  testCases.ServiceTest - //Clicked on Origin field and Selected origin as 'Email'//
+20:13:24.159 [main] INFO  testCases.ServiceTest - //gave subject to the subject field//
+20:13:24.399 [main] INFO  testCases.ServiceTest - //gave Description to the description field//
+20:13:24.633 [main] INFO  testCases.ServiceTest - //Clicked on Account Name field//
+20:13:26.624 [main] INFO  testCases.ServiceTest - //Clicked on Search field and searched the account//
+20:13:26.822 [main] INFO  testCases.ServiceTest - //Clicked on Go Button//
+20:13:27.435 [main] INFO  testCases.ServiceTest - //Selected the Acccount Name//
+20:13:33.726 [main] INFO  testCases.ServiceTest - //Clicked on Save button//
+20:13:33.727 [main] INFO  testCases.ServiceTest - //Successfully Case created//
+20:13:33.880 [main] INFO  testCases.ServiceTest - //Clicked on Details section//
+20:13:34.565 [main] INFO  testCases.ServiceTest - //Clicked on Clone Button//
+20:13:34.778 [main] INFO  testCases.ServiceTest - //Modified the subject field//
+20:13:36.296 [main] INFO  testCases.ServiceTest - //Clicked on Save Button//
+20:13:36.296 [main] INFO  testCases.ServiceTest - //Successfully Cloned the Case//
